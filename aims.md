@@ -1,6 +1,6 @@
 # Leveraging Senescence Atlases to Identify Drivers of Pediatric Cancer Susceptibility
 
-**PRINCIPAL INVESTIGATOR:** Vignesh V. Venkat 
+**PRINCIPAL INVESTIGATOR:** Vignesh V. Venkat\ 
 *PROGRAMS:* Gabriella Miller Kids First (KF); Cellular Senescence Network (SenNet)  
 ## SPECIFIC AIMS
 
@@ -18,6 +18,6 @@ Using SenNet secretome profiles, we will identify pro-inflammatory signaling mol
 
 ### Aim 3: Develop a Multi-Omic Predictive Model for Cancer Predisposition.
 We will integrate KF clinical/phenotypic metadata with SenNet spatial transcriptomic patterns to build a machine-learning model. This model will predict the likelihood of "malignant transformation" based on the presence of specific genomic variants (KF) and the density of senescent cells in surrounding tissue (SenNet).
-- *Impact:* This integrative approach will transition pediatric care from reactive sequencing to proactive, state-aware monitoring, identifying at-risk children before cellular "aging" signals trigger oncogenic cascades.
+- *Impact:* This integrative approach will transition pediatric care from reactive sequencing to proactive, state-aware monitoring, identifying at-risk children before cellular "aging" signals trigger oncogenic cascades.\
 
 **AI Declaration**: Used Gemini 3 - Fast to help edit the grammar \& structure of the aims. 
