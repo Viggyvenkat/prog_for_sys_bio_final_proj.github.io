@@ -1,4 +1,6 @@
 theme: jekyll-theme-minimal
 title: Programming for Systems Biology - Final Project - Vignesh V. Venkat
 description: KF & Cellular SnC
-
+remote_theme: pages-themes/minimal@v0.2.0
+baseurl: "/prog_for_sys_bio_final_proj.github.io" 
+url: "https://viggyvenkat.github.io"
